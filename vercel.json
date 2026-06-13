@@ -1,0 +1,9 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "buildCommand": "vite build",
+  "installCommand": "npm install --legacy-peer-deps",
+  "framework": null,
+  "env": {
+    "NITRO_PRESET": "vercel"
+  }
+}
